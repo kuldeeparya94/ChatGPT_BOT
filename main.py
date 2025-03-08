@@ -2,7 +2,7 @@ import gradio as gr
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "enter api key"
 
 
 def chat_gpt(input):
